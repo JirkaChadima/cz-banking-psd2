@@ -1,10 +1,10 @@
 # Nevyčerpávající seznam API portálů českých bank
 
-Jste z banky? Kutíte něco pro vývojáře? Pošlete pull request!
+*Jste z banky? Kutíte něco pro vývojáře? Pošlete pull request!*
 
 - [Český Standard pro Open Banking ](https://www.czech-ba.cz/cs/aktivity/standardy/cesky-standard-pro-open-banking)
 
-Zatím není zveřejněná dokumentace
+<!--Zatím není zveřejněná dokumentace-->
 
 ## Banky s API portálem
 
