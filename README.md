@@ -1,4 +1,4 @@
-# Nevzčerpávající seznam API portálů českých bank
+# Nevyčerpávající seznam API portálů českých bank
 
 Jste z banky? Kutíte něco pro vývojáře? Pošlete pull request!
 
@@ -8,15 +8,14 @@ Jste z banky? Kutíte něco pro vývojáře? Pošlete pull request!
 
 | Kód | Banka | Web | API portál | Poznámka |
 | --- | --- | --- | --- | --- |
-| 3030 | Air Bank a.s. | https://www.airbank.cz | https://developers.airbank.cz | |
-| 2250 | Banka CREDITAS a.s. | https://www.creditas.cz | https://www.creditas.cz/firma/creditas-api | |
-| 0800 | Česká spořitelna | https://www.csas.cz | https://developers.csas.cz/ | |
 | 0300 | Československá obchodní banka | https://www.csob.cz | https://www.csob.cz/portal/o-csob/otevrene-bankovnictvi-csob/pro-vyvojare | Zatím není zveřejněná dokumentace |
+| 0800 | Česká spořitelna | https://www.csas.cz | https://developers.csas.cz/ | |
 | 2010 | Fio banka | https://www.fio.cz | https://www.fio.cz/bankovni-sluzby/api-bankovnictvi | |
-| 5800 | J & T BANKA | https://www.jtbank.cz | https://developers.jtbank.cz/ | |
-| 5500 | Raiffeisenbank a.s. | https://www.rb.cz | https://developer.rb.cz/ | |
+| 2250 | Banka CREDITAS a.s. | https://www.creditas.cz | https://www.creditas.cz/firma/creditas-api | |
 | 2700 | UniCredit Bank Czech Republic and Slovakia | https://www.unicredit.cz | https://developer.unicredit.eu | Zřejmě globální portál, který ale explicitně uvádí CZ pobočku |
-
+| 3030 | Air Bank a.s. | https://www.airbank.cz | https://developers.airbank.cz | |
+| 5500 | Raiffeisenbank a.s. | https://www.rb.cz | https://developer.rb.cz/ | |
+| 5800 | J & T BANKA | https://www.jtbank.cz | https://developers.jtbank.cz/ | |
 
 ## Banky bez API portálu
 
