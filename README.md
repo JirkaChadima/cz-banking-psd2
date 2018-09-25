@@ -21,6 +21,9 @@
 | 5500 | [Raiffeisenbank a.s.](https://www.rb.cz) | https://developer.rb.cz/ | |
 | 5800 | [J & T BANKA](https://www.jtbank.cz) | https://developers.jtbank.cz/ | |
 | 6100 | [Equa bank a.s.](https://www.equabank.cz) | https://developers.equa.cz/store/ | |
+| 6210 | [mBank S.A.](https://www.mbank.cz) | https://www.mbank.cz/informace-k-produktum/info/jine/psd2.html | Chystá celoskupinový portál |
+| 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbankcz.cz/psd2-vyvojari | |
+
 
 ## Banky bez API portálu
 
@@ -45,10 +48,8 @@
 | 4300 | [Českomoravská záruční a rozvojová banka](https://www.cmzrb.cz/) | | |
 | 6000 | [PPF banka a.s.](https://www.ppfbanka.cz/) | | |
 | 6200 | [COMMERZBANK Aktiengesellschaft](https://www.commerzbank.cz/) | | |
-| 6210 | [mBank S.A.](https://www.mbank.cz) | https://www.mbank.cz/informace-k-produktum/info/jine/psd2.html | Chystá celoskupinový portál |
 | 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | | |
 | 6700 | [Všeobecná úverová banka a.s.](http://www.vub.cz) | | |
-| 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | | |
 | 7910 | [Deutsche Bank Aktiengesellschaft Filiale Prag](https://www.db.com/czechrepublic/) | | |
 | 7940 | [Waldviertler Sparkasse Bank AG](https://www.wspk.cz/) | | |
 | 7950 | [Raiffeisen stavební spořitelna a.s.](https://www.rsts.cz/) | | |
