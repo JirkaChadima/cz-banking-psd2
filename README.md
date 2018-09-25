@@ -13,7 +13,7 @@
 | 0100 | [Komerční banka](https://www.kb.cz) | https://www.kb.cz/cs/ostatni/nase-aplikace/aplikace/otevrene-bankovnictvi-api | Zatím není zveřejněná dokumentace |
 | 0300 | [Československá obchodní banka](https://www.csob.cz) | https://www.csob.cz/portal/o-csob/otevrene-bankovnictvi-csob/pro-vyvojare | Zatím není zveřejněná dokumentace |
 | 0600 | [MONETA Money Bank](https://www.moneta.czv) | https://apiportal.moneta.cz/ | Zatím není zveřejněná dokumentace |
-| 0800 | [Česká spořitelna](https://www.csas.cz) | https://developers.csas.cz/ | |
+| 0800 | [Česká spořitelna](https://www.csas.cz) | https://developers.erstegroup.com/ | |
 | 2010 | [Fio banka](https://www.fio.cz) | https://www.fio.cz/bankovni-sluzby/api-bankovnictvi | |
 | 2250 | [Banka CREDITAS a.s.](https://www.creditas.cz) | https://www.creditas.cz/firma/creditas-api | |
 | 2700 | [UniCredit Bank Czech Republic and Slovakia](https://www.unicredit.cz) | https://developer.unicredit.eu | Zřejmě globální portál, který ale explicitně uvádí CZ pobočku |
