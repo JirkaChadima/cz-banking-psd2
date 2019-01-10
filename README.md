@@ -1,5 +1,7 @@
 # Nevyčerpávající seznam API portálů českých bank
 
+**Opuštěno! Využijte https://www.apiportal.cz/**
+
 *Jste z banky? Kutíte něco pro vývojáře? Pošlete pull request!*
 
 - [Český Standard pro Open Banking ](https://www.czech-ba.cz/cs/aktivity/standardy/cesky-standard-pro-open-banking)
