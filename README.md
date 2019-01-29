@@ -74,12 +74,12 @@
 | 8265 | [Industrial and Commercial Bank of China Limited Prague Branch](http://www.icbc.com.cn/ICBC/%E6%B5%B7%E5%A4%96%E5%88%86%E8%A1%8C/%E5%B8%83%E6%8B%89%E6%A0%BC%E7%BD%91%E7%AB%99/CZ/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1/%E6%9C%8D%E5%8A%A1%E5%85%AC%E5%91%8A/) | | |
 | 8270 | [Fairplay Pay s.r.o.](https://fpay.online/) | | |
 | 8280 | [B-Efekt a.s.](http://www.b-efekt.cz/) | | |
-| 8290 | EUROPAY s.r.o. ERSO CZ PP | | |
+| 8290 | EUROPAY s.r.o. | | |
 | 8291 | Business Credit s.r.o. | | |
 | 8292 | Money Change s.r.o. | | |
 | 8293 | Mercurius partners s.r.o. | | |
 | 8294 | GrisPayUnion s.r.o. | | |
-| 8295 | NOVARED s.r.o. NVSR CZ PP | | |
+| 8295 | NOVARED s.r.o. | | |
 | 8296 | PaySysEU s.r.o. | | |
 | 8297 | EUPSProvider s.r.o. | | |
 | 8298 | Andraste Capital s.r.o. | | |
