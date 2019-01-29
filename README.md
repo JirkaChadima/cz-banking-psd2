@@ -1,8 +1,7 @@
 # Nevyčerpávající seznam API portálů českých bank
 
-**Opuštěno! Využijte https://www.apiportal.cz/**
-
-*Jste z banky? Kutíte něco pro vývojáře? Pošlete pull request!*
+- Aktualizace probíhají nárazově! Pro nejčerstvější informace můžete použít https://www.apiportal.cz/
+- Jste z banky? Kutíte něco pro vývojáře? **Pošlete pull request!**
 
 - [Český Standard pro Open Banking ](https://www.czech-ba.cz/cs/aktivity/standardy/cesky-standard-pro-open-banking)
 
@@ -12,19 +11,23 @@
 
 | Kód | Banka | API portál | Poznámka |
 | --- | --- | --- | --- |
-| 0100 | [Komerční banka](https://www.kb.cz) | https://www.kb.cz/cs/ostatni/nase-aplikace/aplikace/otevrene-bankovnictvi-api | Zatím není zveřejněná dokumentace |
-| 0300 | [Československá obchodní banka](https://www.csob.cz) | https://www.csob.cz/portal/o-csob/otevrene-bankovnictvi-csob/pro-vyvojare | Zatím není zveřejněná dokumentace |
+| 0100 | [Komerční banka](https://www.kb.cz) | https://www.kb.cz/cs/ostatni/nase-aplikace/aplikace/otevrene-bankovnictvi-api | Dokumentace je schovaná v záložce dokumenty |
+| 0300 | [Československá obchodní banka](https://www.csob.cz) | https://developers.csob.cz/cs/ | |
 | 0600 | [MONETA Money Bank](https://www.moneta.czv) | https://apiportal.moneta.cz/ | Zatím není zveřejněná dokumentace |
 | 0800 | [Česká spořitelna](https://www.csas.cz) | https://developers.erstegroup.com/ | |
 | 2010 | [Fio banka](https://www.fio.cz) | https://www.fio.cz/bankovni-sluzby/api-bankovnictvi | |
-| 2250 | [Banka CREDITAS a.s.](https://www.creditas.cz) | https://www.creditas.cz/firma/creditas-api | |
+| 2240 | [Poštová banka](https://www.postovabanka.sk/cz/) | https://www.postovabanka.sk/psd2_tpp/ | |
+| 2250 | [Banka CREDITAS a.s.](https://www.creditas.cz) | https://www.creditas.cz/otevrene-bankovnictvi | |
 | 2700 | [UniCredit Bank Czech Republic and Slovakia](https://www.unicredit.cz) | https://developer.unicredit.eu | Zřejmě globální portál, který ale explicitně uvádí CZ pobočku |
 | 3030 | [Air Bank a.s.](https://www.airbank.cz) | https://developers.airbank.cz | |
-| 5500 | [Raiffeisenbank a.s.](https://www.rb.cz) | https://developer.rb.cz/ | |
+| 3500 | [ING Bank N.V.](http://www.ingbank.cz) | https://developer.ing.com/openbanking | |
+| 5500 | [Raiffeisenbank a.s.](https://www.rb.cz) | https://rbi-developer.rb.cz/ | |
 | 5800 | [J & T BANKA](https://www.jtbank.cz) | https://developers.jtbank.cz/ | |
-| 6100 | [Equa bank a.s.](https://www.equabank.cz) | https://developers.equa.cz/store/ | |
+| 6000 | [PPF banka a.s.](https://www.ppfbanka.cz/) | https://www.ppfbanka.cz/cs/dokumenty/1868-pristupy-tretich-stran | |
+| 6100 | [Equa bank a.s.](https://www.equabank.cz) | https://www.equabank.cz/pece-a-podpora/otevrene-bankovnictvi | |
 | 6210 | [mBank S.A.](https://www.mbank.cz) | https://www.mbank.cz/informace-k-produktum/info/jine/psd2.html | Chystá celoskupinový portál |
 | 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbankcz.cz/psd2-vyvojari | |
+| 7980 | [Wüstenrot hypoteční banka a.s.](https://www.wuestenrot.cz/) | https://developers.wuestenrot.cz/store/ | |
 
 
 ## Banky bez API portálu
@@ -39,16 +42,13 @@
 | 2100 | [Hypoteční banka](https://www.hypotecnibanka.cz/) | | |
 | 2200 | [Peněžní dům](http://www.peneznidum.cz/) | | |
 | 2220 | [Artesa](https://www.artesa.cz) | | |
-| 2240 | [Poštová banka](https://www.postovabanka.sk/cz/) | | |
 | 2260 | [NEY spořitelní družstvo](https://www.ney.cz/) | | |
 | 2275 | [Podnikatelská družstevní záložna](http://www.penezniustav.cz/) | | |
 | 2600 | [Citibank Europe plc](http://www.citibank.cz) | | |
 | 3050 | [BNP Paribas Personal Finance SA](http://www.bnpparibas.cz/) | | |
 | 3060 | [PKO BP S.A.](https://www.pkobp.pl/pkobppl-en/international-banking/czech-branch/) | | |
-| 3500 | [ING Bank N.V.](http://www.ingbank.cz) | | |
 | 4000 | [Expobank CZ a.s.](https://www.expobank.cz/) | | |
 | 4300 | [Českomoravská záruční a rozvojová banka](https://www.cmzrb.cz/) | | |
-| 6000 | [PPF banka a.s.](https://www.ppfbanka.cz/) | | |
 | 6200 | [COMMERZBANK Aktiengesellschaft](https://www.commerzbank.cz/) | | |
 | 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | | |
 | 6700 | [Všeobecná úverová banka a.s.](http://www.vub.cz) | | |
@@ -57,7 +57,6 @@
 | 7950 | [Raiffeisen stavební spořitelna a.s.](https://www.rsts.cz/) | | |
 | 7960 | [Českomoravská stavební spořitelna](https://www.cmss.cz/) | | |
 | 7970 | [Wüstenrot - stavební spořitelna a.s.](https://www.wuestenrot.cz/) | | |
-| 7980 | [Wüstenrot hypoteční banka a.s.](https://www.wuestenrot.cz/) | | |
 | 7990 | [Modrá pyramida stavební spořitelna](https://www.modrapyramida.cz/) | | |
 | 8030 | [Volksbank Raiffeisenbank Nordoberpfalz eG pobočka Cheb](http://www.vr-nopf.cz/) | | |
 | 8040 | [Oberbank AG pobočka Česká republika](https://www.oberbank.cz/) | | |
