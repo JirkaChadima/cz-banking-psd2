@@ -2,8 +2,8 @@
 
 - Aktualizace probíhají nárazově! Pro nejčerstvější informace můžete použít https://www.apiportal.cz/
 - Jste z banky? Kutíte něco pro vývojáře? **Pošlete pull request!**
-
 - [Český Standard pro Open Banking ](https://www.czech-ba.cz/cs/aktivity/standardy/cesky-standard-pro-open-banking)
+- [Stav po roce na mesec.cz](https://www.mesec.cz/clanky/psd2-rok-pote-multibanking-umi-5-bank-api-nezpristupnila-polovina/)
 
 <!--Zatím není zveřejněná dokumentace-->
 
@@ -64,7 +64,9 @@
 | 8090 | [Česká exportní banka](https://www.ceb.cz) | | |
 | 8150 | [HSBC Bank plc - pobočka Praha](http://www.hsbc.cz/) | | |
 | 8200 | [PRIVAT BANK AG der Raiffeisenlandesbank Oberösterreich Aktiengesellschaft](https://www.privatbank.at/eBusiness/01_template1/1199065680270660255-1199067790978653034_1206035587291261039_1207865949009465887-1207865321147647686-NA-4-NA-NA-NA.html) | | |
+| 8215 | ALTERNATIVE PAYMENT SOLUTIONS, s.r.o. | | |
 | 8220 | [Payment Execution s.r.o.](http://payment-execution.com/) | | |
+| 8225 | ORANGETRUST s.r.o | | |
 | 8230 | [EEPAYS s.r.o.](http://eepaysystem.com/) | | |
 | 8240 | [Družstevní záložna Kredit](http://www.dzk.cz/) | | |
 | 8250 | [Bank of China (Hungary) Close Ltd. Prague branch](http://www.bankofchina.com/hu/sub_en/aboutus/ab3/201701/t20170115_8450165.html) | | |
@@ -72,6 +74,15 @@
 | 8265 | [Industrial and Commercial Bank of China Limited Prague Branch](http://www.icbc.com.cn/ICBC/%E6%B5%B7%E5%A4%96%E5%88%86%E8%A1%8C/%E5%B8%83%E6%8B%89%E6%A0%BC%E7%BD%91%E7%AB%99/CZ/%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1/%E6%9C%8D%E5%8A%A1%E5%85%AC%E5%91%8A/) | | |
 | 8270 | [Fairplay Pay s.r.o.](https://fpay.online/) | | |
 | 8280 | [B-Efekt a.s.](http://www.b-efekt.cz/) | | |
+| 8290 | EUROPAY s.r.o. ERSO CZ PP | | |
+| 8291 | Business Credit s.r.o. | | |
+| 8292 | Money Change s.r.o. | | |
+| 8293 | Mercurius partners s.r.o. | | |
+| 8294 | GrisPayUnion s.r.o. | | |
+| 8295 | NOVARED s.r.o. NVSR CZ PP | | |
+| 8296 | PaySysEU s.r.o. | | |
+| 8297 | EUPSProvider s.r.o. | | |
+| 8298 | Andraste Capital s.r.o. | | |
 
 ---
 Seznam bank vychází z [číselníku ČNB](https://www.cnb.cz/cs/platebni_styk/ucty_kody_bank)
