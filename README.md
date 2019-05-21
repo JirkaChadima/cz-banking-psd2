@@ -11,7 +11,7 @@
 
 | Kód | Banka | API portál | Poznámka |
 | --- | --- | --- | --- |
-| 0100 | [Komerční banka](https://www.kb.cz) | https://www.kb.cz/cs/ostatni/nase-aplikace/aplikace/otevrene-bankovnictvi-api | Dokumentace je schovaná v záložce dokumenty |
+| 0100 | [Komerční banka](https://www.kb.cz) | https://www.kb.cz/en/api | |
 | 0300 | [Československá obchodní banka](https://www.csob.cz) | https://developers.csob.cz/cs/ | |
 | 0600 | [MONETA Money Bank](https://www.moneta.czv) | https://apiportal.moneta.cz/ | Zatím není zveřejněná dokumentace |
 | 0800 | [Česká spořitelna](https://www.csas.cz) | https://developers.erstegroup.com/ | |
