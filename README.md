@@ -20,12 +20,14 @@
 | 2250 | [Banka CREDITAS a.s.](https://www.creditas.cz) | https://www.creditas.cz/otevrene-bankovnictvi | |
 | 2700 | [UniCredit Bank Czech Republic and Slovakia](https://www.unicredit.cz) | https://developer.unicredit.eu | Zřejmě globální portál, který ale explicitně uvádí CZ pobočku |
 | 3030 | [Air Bank a.s.](https://www.airbank.cz) | https://developers.airbank.cz | |
+| 3050 | [BNP Paribas Personal Finance SA](http://www.bnpparibas.cz/) | https://apistore.bnpparibas/home | |
 | 3500 | [ING Bank N.V.](http://www.ingbank.cz) | https://developer.ing.com/openbanking | |
 | 5500 | [Raiffeisenbank a.s.](https://www.rb.cz) | https://rbi-developer.rb.cz/ | |
 | 5800 | [J & T BANKA](https://www.jtbank.cz) | https://developers.jtbank.cz/ | |
 | 6000 | [PPF banka a.s.](https://www.ppfbanka.cz/) | https://www.ppfbanka.cz/cs/dokumenty/1868-pristupy-tretich-stran | |
 | 6100 | [Equa bank a.s.](https://www.equabank.cz) | https://www.equabank.cz/pece-a-podpora/otevrene-bankovnictvi | |
 | 6210 | [mBank S.A.](https://www.mbank.cz) | https://www.mbank.cz/informace-k-produktum/info/jine/psd2.html | Chystá celoskupinový portál |
+| 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | https://apistore.bnpparibas/home | |
 | 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbankcz.cz/psd2-vyvojari | |
 | 7980 | [Wüstenrot hypoteční banka a.s.](https://www.wuestenrot.cz/) | https://developers.wuestenrot.cz/store/ | |
 
@@ -45,12 +47,10 @@
 | 2260 | [NEY spořitelní družstvo](https://www.ney.cz/) | | |
 | 2275 | [Podnikatelská družstevní záložna](http://www.penezniustav.cz/) | | |
 | 2600 | [Citibank Europe plc](http://www.citibank.cz) | | |
-| 3050 | [BNP Paribas Personal Finance SA](http://www.bnpparibas.cz/) | | |
 | 3060 | [PKO BP S.A.](https://www.pkobp.pl/pkobppl-en/international-banking/czech-branch/) | | |
 | 4000 | [Expobank CZ a.s.](https://www.expobank.cz/) | | |
 | 4300 | [Českomoravská záruční a rozvojová banka](https://www.cmzrb.cz/) | | |
 | 6200 | [COMMERZBANK Aktiengesellschaft](https://www.commerzbank.cz/) | | |
-| 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | | |
 | 6700 | [Všeobecná úverová banka a.s.](http://www.vub.cz) | | |
 | 7910 | [Deutsche Bank Aktiengesellschaft Filiale Prag](https://www.db.com/czechrepublic/) | | |
 | 7940 | [Waldviertler Sparkasse Bank AG](https://www.wspk.cz/) | | |
