@@ -26,7 +26,7 @@
 | 5800 | [J & T BANKA](https://www.jtbank.cz) | https://developers.jtbank.cz/ | |
 | 6000 | [PPF banka a.s.](https://www.ppfbanka.cz/) | https://www.ppfbanka.cz/cs/dokumenty/1868-pristupy-tretich-stran | |
 | 6100 | [Equa bank a.s.](https://www.equabank.cz) | https://www.equabank.cz/pece-a-podpora/otevrene-bankovnictvi | |
-| 6210 | [mBank S.A.](https://www.mbank.cz) | https://www.mbank.cz/informace-k-produktum/info/jine/psd2.html | Chystá celoskupinový portál |
+| 6210 | [mBank S.A.](https://www.mbank.cz) | https://developer.api.mbank.cz/ | |
 | 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | https://apistore.bnpparibas/home | |
 | 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbankcz.cz/psd2-vyvojari | |
 | 7980 | [Wüstenrot hypoteční banka a.s.](https://www.wuestenrot.cz/) | https://developers.wuestenrot.cz/store/ | |
