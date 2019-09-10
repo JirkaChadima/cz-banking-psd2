@@ -31,6 +31,7 @@
 | 6210 | [mBank S.A.](https://www.mbank.cz) | https://developer.api.mbank.cz/ | |
 | 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | https://apistore.bnpparibas/home | |
 | 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbankcz.cz/psd2-vyvojari | |
+| 7940 | [Waldviertler Sparkasse Bank AG](https://www.wspk.cz/) | https://www.wspk.cz/informace/otevrene-bankovnictvi---api/otevrene-bankovnictvi/ | |
 | 7980 | [Wüstenrot hypoteční banka a.s.](https://www.wuestenrot.cz/) | https://developers.wuestenrot.cz/store/ | |
 
 
@@ -46,7 +47,6 @@
 | 6200 | [COMMERZBANK Aktiengesellschaft](https://www.commerzbank.cz/) | | |
 | 6700 | [Všeobecná úverová banka a.s.](http://www.vub.cz) | | |
 | 7910 | [Deutsche Bank Aktiengesellschaft Filiale Prag](https://www.db.com/czechrepublic/) | | |
-| 7940 | [Waldviertler Sparkasse Bank AG](https://www.wspk.cz/) | | |
 | 7950 | [Raiffeisen stavební spořitelna a.s.](https://www.rsts.cz/) | | |
 | 7960 | [Českomoravská stavební spořitelna](https://www.cmss.cz/) | | |
 | 7970 | [Wüstenrot - stavební spořitelna a.s.](https://www.wuestenrot.cz/) | | |
