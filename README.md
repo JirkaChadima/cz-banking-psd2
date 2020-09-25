@@ -30,7 +30,7 @@
 | 6100 | [Equa bank a.s.](https://www.equabank.cz) | https://www.equabank.cz/pece-a-podpora/otevrene-bankovnictvi | |
 | 6210 | [mBank S.A.](https://www.mbank.cz) | https://developer.api.mbank.cz/ | |
 | 6300 | [BNP Paribas S.A.](http://www.bnpparibas.cz/) | https://apistore.bnpparibas/home | |
-| 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbankcz.cz/psd2-vyvojari | |
+| 6800 | [Sberbank CZ](https://www.sberbankcz.cz/) | https://www.sberbank.cz/cs-cz/psd2/api | |
 | 7940 | [Waldviertler Sparkasse Bank AG](https://www.wspk.cz/) | https://www.wspk.cz/informace/otevrene-bankovnictvi---api/otevrene-bankovnictvi/ | |
 | 7980 | [Wüstenrot hypoteční banka a.s.](https://www.wuestenrot.cz/) | https://developers.wuestenrot.cz/store/ | |
 
