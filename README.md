@@ -22,7 +22,7 @@
 | 2700 | [UniCredit Bank Czech Republic and Slovakia](https://www.unicredit.cz) | https://developer.unicredit.eu | Zřejmě globální portál, který ale explicitně uvádí CZ pobočku |
 | 3030 | [Air Bank a.s.](https://www.airbank.cz) | https://developers.airbank.cz | |
 | 3050 | [BNP Paribas Personal Finance SA](http://www.bnpparibas.cz/) | https://apistore.bnpparibas/home | |
-| 4000 | [Expobank CZ a.s.](https://www.expobank.cz/) | https://www.expobank.cz/otevrene-bankovnictvi/ | |
+| 4000 | [Expobank CZ a.s.](https://www.expobank.cz/) | https://www.expobank.cz/otevrene-bankovnictvi-api | |
 | 3500 | [ING Bank N.V.](http://www.ingbank.cz) | https://developer.ing.com/openbanking | |
 | 5500 | [Raiffeisenbank a.s.](https://www.rb.cz) | https://rbi-developer.rb.cz/ | |
 | 5800 | [J & T BANKA](https://www.jtbank.cz) | https://developers.jtbank.cz/ | |
